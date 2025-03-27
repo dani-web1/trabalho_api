@@ -1,6 +1,3 @@
-Aqui está uma sugestão de documentação em formato de `README.md` para o seu projeto:
-
-```markdown
 # Rick and Morty API Server
 
 Este projeto é uma API simples construída com **Node.js** que consome dados da API oficial do **Rick and Morty**. Ele retorna informações sobre os personagens do show, como nome, status, espécie, tipo, gênero e imagem.
